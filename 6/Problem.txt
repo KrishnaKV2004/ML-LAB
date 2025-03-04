@@ -1,0 +1,5 @@
+   To implement Linear Regression from scratch.
+1. Create a nx1 matrix for features.
+2. Generate noise factor of nx1 dimension.
+3. Generate two vectors a0 and b1 using which we can find equation.
+4. Plot the graph for visualization.

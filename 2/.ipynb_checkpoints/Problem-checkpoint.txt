@@ -1,0 +1,4 @@
+1. Create a dataset with one categorical feature[Gender] with some None values,
+   one numerical feature[Age] with some Nan values.
+2. Impute The Gender Column with the mode of the column and Age column with mean.
+3. Visualize the data before and after imputation.

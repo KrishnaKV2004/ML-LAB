@@ -1,0 +1,7 @@
+1. Read the given dataset into DataFrame
+2. Find the names of the columns of the DataFrame
+3. Convert the text in the sentence column to lowercase
+4. Remove the spaces from the start and end of the text in the sentence column
+5. Convert the textual label column (sentiment) to numerical values (0/1)
+6. Remove the punctuations from the data
+7. Remove the stop words from the data

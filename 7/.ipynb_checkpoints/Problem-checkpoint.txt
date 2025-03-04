@@ -1,0 +1,6 @@
+   To implement Polynomial Regression from scratch
+1. Create a nx1 matrix for features.
+2. Generate noise factor of nx1 dimension.
+3. Generate three coefficients b0, b1, and b2 to define a quadratic equation.
+4. Compute the polynomial regression model using the normal equation.
+5. Plot the graph for visualization.

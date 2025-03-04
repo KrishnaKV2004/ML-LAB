@@ -1,0 +1,18 @@
+    Generation and Analysis of Dataset
+
+1   Create a numpy array of size 100 named age with values from 18–100.
+2   Create a numpy array of size 90 named salary with values from 1000–10000 and a
+    numpy array outlier with 10 values ranging from 300,000–1,000,000.
+3   Concatenate height and outlier arrays to form many named heights.
+4   Create a numpy array of size 100 named gender with values as male, female, and None.
+5   Add values for every 10th sample.
+6   Now use these numpy arrays to form a dictionary and convert that dictionary to a DataFrame.
+7   Show boxplot on salary, age, height columns separately.
+8   Show scatterplot between age-salary and age-height columns.
+9   Check the shape of the DataFrame.
+10  Check if the dataset contains null/NaN values.
+11  See the info and stats of the dataset.
+12  Make a copy of the DataFrame.
+13  Drop duplicates from the first DataFrame.
+14  Visualize the count of the gender column.
+15  Note down the observations for each output.

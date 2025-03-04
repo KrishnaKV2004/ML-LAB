@@ -1,0 +1,8 @@
+1. Read the given dataset in the DataFrame.
+2. Display the names of the columns of the DataFrame.
+3. Store the gender and age_group column in list named features and exercise column
+   in a list named
+4. Apply One Hot Encoding to the gender and age_group columns using code from scratch.
+5. Apply One Hot Encoding to the gender and age_group columns using library.
+6. Apply Label Encoding to exercise column.
+7. Compare the results obtained in One-Hot Encoding in both the cases.
