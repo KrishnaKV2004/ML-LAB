@@ -1,0 +1,7 @@
+   Implement SVR using Sklearn Library
+
+1. Create a 2D matrix of features and target variables
+2. Create a polynomial equation
+3. Y should be a function of (Sin/Cos) wave
+4. Create SVM model with 3 Linear, Polynomial and RBF
+5. Plot graph for the model
